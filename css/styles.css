@@ -20,3 +20,37 @@
 	position:relative;
 	top:1px;
 }
+
+.two-columns {
+    display: flex;
+    align-items:center; 
+}
+
+.imagenlat {
+    width: 100%;
+}
+
+.column2 {
+    margin-left: 20px;
+    margin-right: 130px;
+}
+
+span {
+ margin-left: 18px;
+}
+
+
+.img-text{
+   display: flex;
+   align-items:center;  
+}
+
+.text-cent{
+    align-content: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.greenBox {
+    background-color: #7cdf95;
+}
